@@ -1,0 +1,15 @@
+
+{
+  "aws": {
+    "accessKeyId": "AKIAFAKEACCESSKEY1234",
+    "secretAccessKey": "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+  },
+  "database": {
+    "username": "admin",
+    "password": "P@ssw0rd123"
+  },
+  "api": {
+    "apiKey": "sk_test_4eC39HqLyjWDarjtT1zdp7dc",
+    "token": "ghp_FAKEgithubPAT1234567890abcdef"
+  }
+}
